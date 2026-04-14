@@ -14,3 +14,7 @@ Ridade lisamine ja kuvamine
 Andmete genereerimine ja importimine
 
 <img width="1087" height="559" alt="pilt" src="https://github.com/user-attachments/assets/1698b3d8-b272-43e4-b057-4b652de9a0d3" />
+
+Sorteeri kasutajad perekonnanime järgi ja piiritle tulemused kolme esimesega.
+
+<img width="1056" height="149" alt="pilt" src="https://github.com/user-attachments/assets/91c89592-de76-40f2-8cbd-ac989cc1d1c6" />
