@@ -6,3 +6,11 @@ Andmebaasi ja tableli loomine
 Tabeli ja veeru ümbernimetamine, veeru lisamine
 
 <img width="354" height="188" alt="pilt" src="https://github.com/user-attachments/assets/c81e334f-25b5-4b74-8274-86dd9d8a954d" />
+
+Ridade lisamine ja kuvamine
+
+<img width="738" height="133" alt="pilt" src="https://github.com/user-attachments/assets/925b5828-f357-4015-856f-4cabdc34b3d8" />
+
+Andmete genereerimine ja importimine
+
+<img width="1087" height="559" alt="pilt" src="https://github.com/user-attachments/assets/1698b3d8-b272-43e4-b057-4b652de9a0d3" />
