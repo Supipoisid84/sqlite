@@ -1,0 +1,2 @@
+# sqlite
+eˇertg1yykh
