@@ -28,9 +28,17 @@ Lisa kasutajate nimekirja veerg, mis näitab, kas telefoninumber on EESTI numbri
 <img width="1053" height="477" alt="pilt" src="https://github.com/user-attachments/assets/a799d7b1-d547-42f4-8f18-5ba48a9f74f6" />
 
 Kõik koos ehk leia
+<img width="1084" height="553" alt="Kuvatõmmis 2026-05-12 140142" src="https://github.com/user-attachments/assets/ceab5789-1239-443f-8872-caf78b25e647" />
+<img width="1084" height="553" alt="Kuvatõmmis 2026-05-12 140142" src="https://github.com/user-attachments/assets/46755ed0-28db-4a48-899c-0af799a84128" />
 
-    esimene kasutaja, kelle telefoninumber algab 372
-    sorteeri tulemused perekonnanime järgi ja
-    lisa veerg, mis määrab, kas kasutaja email kuulub HARIDUSASUTUS (.edu) domeeni (või .gov).
+esimene kasutaja, kelle telefoninumber algab 372
+sorteeri tulemused perekonnanime järgi ja
+lisa veerg, mis määrab, kas kasutaja email kuulub HARIDUSASUTUS (.edu) domeeni (või .gov).
 
 <img width="827" height="399" alt="pilt" src="https://github.com/user-attachments/assets/dbb94919-d9ab-465f-b291-8c90a350b387" />
+
+Muuda tabelis oma nime real ära email, milleks saab muudetud@gmail.com ja telefoninumber 123
+kustuta ära read 5-10
+kuva esimesed 10 rida ja tee dokumentatsiooni jaoks pilt, kus on näha muudetud rida ja eemaldatud kirjed
+
+<img width="1084" height="553" alt="Kuvatõmmis 2026-05-12 140142" src="https://github.com/user-attachments/assets/b07cc168-6c5d-4237-a7ef-c5d84b4adf08" />
