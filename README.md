@@ -29,7 +29,6 @@ Lisa kasutajate nimekirja veerg, mis näitab, kas telefoninumber on EESTI numbri
 
 Kõik koos ehk leia
 <img width="1084" height="553" alt="Kuvatõmmis 2026-05-12 140142" src="https://github.com/user-attachments/assets/ceab5789-1239-443f-8872-caf78b25e647" />
-<img width="1084" height="553" alt="Kuvatõmmis 2026-05-12 140142" src="https://github.com/user-attachments/assets/46755ed0-28db-4a48-899c-0af799a84128" />
 
 esimene kasutaja, kelle telefoninumber algab 372
 sorteeri tulemused perekonnanime järgi ja
