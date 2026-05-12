@@ -18,3 +18,19 @@ Andmete genereerimine ja importimine
 Sorteeri kasutajad perekonnanime järgi ja piiritle tulemused kolme esimesega.
 
 <img width="1056" height="149" alt="pilt" src="https://github.com/user-attachments/assets/91c89592-de76-40f2-8cbd-ac989cc1d1c6" />
+
+Leia kõik kasutajad, kelle eesnimi algab tähega “G” ja kelle email lõppeb “.com”-iga, ning sorteeri tulemused emaili järgi kahanevas järjekorras.
+
+<img width="1092" height="559" alt="pilt" src="https://github.com/user-attachments/assets/7f375b88-5573-42ae-843b-963b92970380" />
+
+Lisa kasutajate nimekirja veerg, mis näitab, kas telefoninumber on EESTI numbriformaadis (algab numbriga 372) või mitte (CASE).
+
+<img width="1053" height="477" alt="pilt" src="https://github.com/user-attachments/assets/a799d7b1-d547-42f4-8f18-5ba48a9f74f6" />
+
+Kõik koos ehk leia
+
+    esimene kasutaja, kelle telefoninumber algab 372
+    sorteeri tulemused perekonnanime järgi ja
+    lisa veerg, mis määrab, kas kasutaja email kuulub HARIDUSASUTUS (.edu) domeeni (või .gov).
+
+<img width="827" height="399" alt="pilt" src="https://github.com/user-attachments/assets/dbb94919-d9ab-465f-b291-8c90a350b387" />
